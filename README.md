@@ -94,7 +94,7 @@ motto: "Ship fast, iterate faster"
 
 </div>
 
-### [Zenvy - Food Delivery Platform](https://github.com/shanmukesh-developer/zenvy)
+### 🚀 [Zenvy - Food Delivery Platform](https://github.com/shanmukesh-developer/zenvy)
 > **Full-Stack Monorepo** | TypeScript 67% | JavaScript 31% | 297 Commits
 
 A production-grade **food delivery ecosystem** with 5 independent services orchestrated through a unified deployment pipeline.
@@ -120,7 +120,7 @@ A production-grade **food delivery ecosystem** with 5 independent services orche
 
 ---
 
-### [Corporate Smart Messenger](https://github.com/shanmukesh-developer/corporate-smart-messanger)
+### 🤖 [Corporate Smart Messenger](https://github.com/shanmukesh-developer/corporate-smart-messanger)
 > **AI-Powered Chat** | Python | 26 Commits
 
 An enterprise-grade **corporate messaging platform** with RAG-powered AI assistant for intelligent chat history analysis.
@@ -145,7 +145,7 @@ An enterprise-grade **corporate messaging platform** with RAG-powered AI assista
 
 ---
 
-### [BESTA - Restaurant Management System](https://github.com/shanmukesh-developer/restaurant-management-software)
+### 🍽️ [BESTA - Restaurant Management System](https://github.com/shanmukesh-developer/restaurant-management-software)
 > **Hybrid Web + Mobile** | HTML 77% | JavaScript 16% | 33 Commits
 
 A comprehensive **restaurant management system** with web dashboard and native Android app powered by Capacitor.
@@ -171,7 +171,7 @@ A comprehensive **restaurant management system** with web dashboard and native A
 
 ---
 
-### [Housie Game - Multiplayer](https://github.com/shanmukesh-developer/houseee-game)
+### 🎲 [Housie Game - Multiplayer](https://github.com/shanmukesh-developer/houseee-game)
 > **Real-Time Multiplayer** | JavaScript 85% | 22 Commits
 
 A fully interactive **multiplayer Housie (Tambola) game** with real-time gameplay, auto-number calling, and live ticket validation.
@@ -191,26 +191,27 @@ A fully interactive **multiplayer Housie (Tambola) game** with real-time gamepla
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=white)
 
 ---
 
-### [Farmer Supply Chain](https://github.com/shanmukesh-developer/farmer-supply-chain)
-> **Supply Chain Platform** | Public Repository
+### 🏏 [IPL Auction Game](https://github.com/shanmukesh-developer/1.2)
+> **Interactive Simulator** | JavaScript 97.5% | CSS 1.9% | 12 Commits
 
-A platform designed to streamline **agricultural supply chain management**, connecting farmers directly with markets.
+An interactive **IPL Auction Simulator** that allows users to construct cricket teams dynamically, complete with backend logic and live frontend rendering.
 
 **Key Features:**
-- Farm-to-market direct connectivity
-- Supply chain transparency & tracking
-- Inventory management for produce
+- Dynamic team building & player selection
+- Real-time budget tracking & validation
+- Fully responsive IPL theme dashboard
+- Integrated CI pipeline for builds
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-### [Close Chat](https://github.com/shanmukesh-developer/close_chat)
+### 💬 [Close Chat](https://github.com/shanmukesh-developer/close_chat)
 > **Messaging App** | JavaScript 86% | CSS 14% | 7 Commits
 
 A sleek, **privacy-focused chat application** with a modern UI and full-stack architecture.
