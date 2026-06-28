@@ -257,15 +257,7 @@ A sleek, **privacy-focused chat application** with a modern UI and full-stack ar
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shanmukesh-developer&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/shanmukesh-developer)
-
-</div>
-
----
 
 ## Contribution Graph
 
