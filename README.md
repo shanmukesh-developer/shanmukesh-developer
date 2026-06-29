@@ -94,6 +94,68 @@ motto: "Ship fast, iterate faster"
 
 </div>
 
+### 💻 [Python Practice Platform - Code Compiler](https://github.com/shanmukesh-developer/python-practice-platform)
+> **AI Code Review & Web Compiler** | Python 80% | HTML/CSS 20%
+
+An interactive, full-stack programming playground and learning platform supporting multiple languages, secure code runtimes, and deep static inspections.
+
+**Key Features:**
+- Compilation of Python, JavaScript, C, and Java code.
+- Interactive AST-based variable state and execution control flow visualizer.
+- Static code analysis flagging infinite loops, unused variables, and excessive nesting.
+- W3-style interactive learning hub with modular lessons, exercise checkpoints, and quizzes.
+- Secure containerized Docker sandboxing fallback.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🍔 [HostelBite - Hostel Food Ordering Ecosystem](https://github.com/shanmukesh-developer/hostel-bite)
+> **Specialized Campus Delivery** | React + Node.js Full-Stack
+
+A campus-focused food ordering platform serving university hostels with real-time driver tracking and an issue resolution desk.
+
+**Architecture:**
+- **Customer Frontend** - Responsive React App
+- **Delivery Partner App** - Interactive driver routing dashboard
+- **Restaurant Manager** - Kitchen order flow panel
+- **Backend API** - Express + Socket.IO + MongoDB
+
+**Key Features:**
+- Real-time driver speedometer and widget tracker.
+- Helpdesk ticket routing and instant customer resolutions.
+- Secure VaultItem storage integration.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+---
+
+### 🎓 [StudyOS - Local DSA Trainer](https://github.com/shanmukesh-developer/study-os)
+> **Local-First FAANG Prep** | React + Local Storage
+
+A private, client-side technical interview preparation dashboard designed for FAANG and bank exam preparation.
+
+**Key Features:**
+- Curated question bank containing 25 essential data structures and algorithms challenges.
+- In-browser CodeMirror editor supporting live Python compilations.
+- Local-first architecture persisting user progress and streak statistics via localStorage.
+- Integrated AI tutor providing feedback and step-by-step guidance.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![LocalStorage](https://img.shields.io/badge/-LocalStorage-FF6F61?style=flat-square&logo=white)
+
+---
+
 ### 🚀 [Zenvy - Food Delivery Platform](https://github.com/shanmukesh-developer/zenvy)
 > **Full-Stack Monorepo** | TypeScript 67% | JavaScript 31% | 297 Commits
 
